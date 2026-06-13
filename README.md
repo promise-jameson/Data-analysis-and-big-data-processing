@@ -186,4 +186,4 @@ data-analysis-and-big-data-processing/
 
 Promise Jameson
 
-Database Administration Graduate (Honors & 95% gpa) | Data Analytics | Big Data Processing | SQL | Python | Apache Spark
+Database Administration Graduate (Honours Graduate, 95% Program Average) | Data Analytics | Big Data Processing | SQL | Python | Apache Spark
